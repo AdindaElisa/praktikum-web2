@@ -2,6 +2,8 @@
     <li class="list-group-item"><a href="?page=dashboard">Dashboard</a></li>
     <li class="list-group-item"><a href="?page=mahasiswa-show">Data Mahasiswa</a></li>
     <li class="list-group-item"><a href="?page=mahasiswa-add">Tambah Data Mahasiswa</a></li>
+    <li class="list-group-item"><a href="?page=matakuliah-show">Data matakuliah</a></li>
+    <li class="list-group-item"><a href="?page=matakuliah-add">Tambah Data matakuliah</a></li>
     <?php
     //if (isset($_SESSION['username']) && $_SESSION['unsername'] == 'admin') {
     echo '<li class="list-group-item"><a href="?page=user-show">Data User</a></li>

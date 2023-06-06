@@ -1,4 +1,3 @@
-<?php include 'connection.php'; ?>
 <!doctype html>
 <html lang="en">
 
@@ -9,7 +8,7 @@
     <title>Praktikum Web 2</title>
     <style>
         * {
-            hinc font-size: 14px;
+            font-size: 14px;
         }
 
         html {
@@ -49,7 +48,7 @@
                         <a class="nav-link" href="?page=home">Beranda</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="?page=profil">Profil Penulis</a>
+                        <a class="nav-link" href="?page=profile">Profil Penulis</a>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" ariahaspopup="true" aria-expanded="false">
